@@ -18,11 +18,7 @@ Food delivery is the second most popular app-based business after cab booking in
 
 Onboarding is the process of getting users familiar with a new interface. It can involve one or more of the following components: feature promotion, customization, and instructions.
 
-<img src="https://github.com/MarvelApps-ReactNative/food-delivery-app/raw/main/screenshot/1.png" width="250" height="500" />
-|
-<img src="https://github.com/MarvelApps-ReactNative/food-delivery-app/raw/main/screenshot/2.png" width="250" height="500" />
-|
-<img src="https://github.com/MarvelApps-ReactNative/food-delivery-app/raw/main/screenshot/3.png" width="250" height="500" />
+<img src="https://github.com/MarvelApps-ReactNative/food-delivery-app/raw/main/screenshot/1.png" width="250" height="500" /> | <img src="https://github.com/MarvelApps-ReactNative/food-delivery-app/raw/main/screenshot/2.png" width="250" height="500" /> | <img src="https://github.com/MarvelApps-ReactNative/food-delivery-app/raw/main/screenshot/3.png" width="250" height="500" />
 
 >  Food Details Module
 
